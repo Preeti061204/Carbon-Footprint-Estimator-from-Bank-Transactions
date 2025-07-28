@@ -26,10 +26,10 @@ This project estimates the carbon footprint (CO₂e) of users by analyzing their
 - Residual plots, predicted vs. actual plots, feature importance charts
 - Interactive script to estimate CO₂e from user input (amount, category, subcategory)
 
-👥 Authors
-Onushka
-Preeti Sharma
+👥 Authors:
+- Onushka
+- Preeti Sharma
+            
 For any queries :
-
 onushkachauhan@gmail.com
 preetisharma6012@gmail.com
