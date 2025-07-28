@@ -31,5 +31,5 @@ This project estimates the carbon footprint (CO₂e) of users by analyzing their
 - Preeti Sharma
             
 For any queries :
-onushkachauhan@gmail.com
+onushkachauhan@gmail.com , 
 preetisharma6012@gmail.com
